@@ -1,6 +1,6 @@
 tic
 MT(1) = 1; i = 1; totom = {};
-% Give the kernel and enum
+% Give the kernel and enumurate
 K = 3;
 rng(1);
 e = 0.2;
