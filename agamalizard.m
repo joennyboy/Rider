@@ -5,7 +5,7 @@ K = 3;
 rng(1);
 e = 0.2;
 rng default % ->This is the important bit
-window = 17;
+window = 17.0;
  [filename, pathname] = uigetfile('firstfirst.csv');
   totom = readtable(filename);
   %  totom = readtable(filename);
